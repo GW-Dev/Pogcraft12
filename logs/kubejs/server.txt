@@ -1,0 +1,13 @@
+[10:47:49] [INFO ] server_scripts:script.js:8: Hello, World! (You will see this line every time server resources reload)
+[10:47:49] [INFO ] Loaded script server_scripts:script.js in 0.002 s
+[10:47:49] [INFO ] Loaded 1/1 KubeJS server scripts in 0.005 s
+[10:47:49] [INFO ] Scripts loaded
+[10:47:49] [WARN ] Failed to register handler for recipe type ars_nouveau:glyph_recipe as it doesn't exist!
+[10:47:49] [INFO ] Scanning recipes...
+[10:47:53] [WARN ] Failed to parse recipe 'createaddition:compat/tconstruct/tinkers_bronze[create:mixing]': {"item":"tconstruct:tinkers_bronze_ingot","count":3} is not a valid result!
+[10:47:54] [INFO ] Found 11040 recipes and 0 failed recipes in 233.3 ms
+[10:47:54] [INFO ] server_scripts:script.js:11: - ae2:network/crafting/molecular_assembler[minecraft:crafting_shaped]: ['#forge:ingots/iron', 'ae2:quartz_glass', 'ae2:annihilation_core', 'minecraft:crafting_table', 'ae2:formation_core'] -> ['ae2:molecular_assembler']
+[10:47:54] [INFO ] Posted recipe events in 12.57 ms
+[10:47:54] [INFO ] Modified & removed recipes in 179.4 ms
+[10:47:54] [INFO ] Added recipes in 5.300 μs
+[10:47:54] [INFO ] Added 0 recipes, removed 1 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
