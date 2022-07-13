@@ -1,0 +1,24 @@
+{
+  "id": "Starter-Base_-3009-70-585",
+  "name": "Starter Base",
+  "groupName": ":Waystones",
+  "displayId": "5d1cbc60-d3c3-4164-8d1d-5af15560976d",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -3009,
+  "y": 70,
+  "z": -585,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

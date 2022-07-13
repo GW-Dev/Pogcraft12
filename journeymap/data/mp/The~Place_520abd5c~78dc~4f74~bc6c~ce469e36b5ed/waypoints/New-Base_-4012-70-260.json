@@ -1,0 +1,24 @@
+{
+  "id": "New-Base_-4012-70-260",
+  "name": "New Base",
+  "groupName": ":Waystones",
+  "displayId": "09181b08-1770-41b4-85ef-c49d6ce97e7b",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -4012,
+  "y": 70,
+  "z": -260,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
