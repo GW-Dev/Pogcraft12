@@ -66,6 +66,9 @@ brimstonePerHeart = 50
 	#How much XP should it cost to undo a mistake when runescribing?  Regardless of this value, it will always consume clay.
 	#Range: 0 ~ 9999
 	runescribeUndoXP = 100
+	#How many sigils should be allowed per player?
+	#Range: 1 ~ 100
+	sigilsLimit = 5
 	#What magnitudes of break should map to what tools? The number set on magnitude will determine the tool material simulated.
 	breakMapping = ["minecraft:stone", "minecraft:iron", "minecraft:diamond"]
 	#Items in this list cannot be disenchanted by the disenchanter.
